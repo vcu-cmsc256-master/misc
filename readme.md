@@ -5,3 +5,4 @@
 * Create a local repository to track changes to a file.
 * Demonstrate how to write meaningful comments for a committed change.
 * Create a GitHub account for use this semester.
+
