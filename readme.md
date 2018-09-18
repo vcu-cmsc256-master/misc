@@ -1,9 +1,5 @@
-# Learning Objectives for Individual Work
+# Learning Objectives for Version Control Assignment
 
-* Network activity
-* Remotes
-* Fetch/push
-* Branches
-* Student repositories
-* GtHub Classroom
-* Permissions
+* Define "Version Control" in your own words, including goals and advantages of using a version control system.
+* Create a local repository to track changes to a file.
+* Demonstrate how to write meaningful comments for a committed change
